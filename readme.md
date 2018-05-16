@@ -1,3 +1,5 @@
-# My React Boilerplate
+# Little React Router Experiment
 
-I don't want to start from scratch all the time. Therefore I created this boilerplate repo. It's supposed to be for my personal use. If it helps you too, be my guest...
+Just for myself..
+
+![safari](https://user-images.githubusercontent.com/3159548/40131111-512833ae-5939-11e8-9b6f-ba0bc8c2b1d4.png)
