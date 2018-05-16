@@ -1,0 +1,20 @@
+@import './base/reset';
+@import './base/typo';
+
+@import './components/container';
+@import './components/navigation';
+@import './components/home';
+@import './components/about';
+@import './components/four0four';
+@import './components/form';
+@import './components/github';
+
+html {
+  background: black;
+}
+
+#app {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+}

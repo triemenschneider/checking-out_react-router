@@ -1,0 +1,19 @@
+.container {
+  max-width: 660px;
+
+  margin: 0 auto;
+  margin-top: 80px;
+
+  border: 3px solid white;
+  border-radius: 30px;
+
+  h1 {
+    padding: 20px 23px;
+
+    font-size: 36px;
+    font-weight: 100;
+    strong {
+      font-weight: 800;
+    }
+  }
+}

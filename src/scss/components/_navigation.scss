@@ -1,0 +1,28 @@
+.navigation {
+  display: flex;
+
+  background: white;
+
+  border-top: 3px solid white;
+  border-bottom: 3px solid white;
+
+  li {
+    color: black;
+    font-size: 18px;
+
+    a {
+      display: block;
+      padding: 25px;
+      color: black;
+      text-decoration: none;
+
+      &:hover,
+      &.active {
+        //text-decoration: underline;
+        font-weight: 600;
+        //background: black;
+        //color: white;
+      }
+    }
+  }
+}
